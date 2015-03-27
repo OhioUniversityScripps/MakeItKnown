@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Galliard';
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Roman.eot');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Roman-iefix.eot') format('embedded-opentype');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Roman.ttf') format('truetype');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Roman.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Galliard';
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Bold.eot');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Bold-iefix.eot?') format('embedded-opentype');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Bold.ttf') format('truetype');
+    src: local('Ã¢ËœÂº'), url('/fonts/Galliard/Galliard-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+body, a, p, span {
+	font-family: Frutiger, "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
